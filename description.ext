@@ -1,0 +1,36 @@
+﻿author = "El Tyranos";
+overviewPicture = "data\bg21_loadingScreen.paa";
+overviewText = "Blablabla.";
+overviewTextLocked = "";
+onLoadName = BG21 Sandbox;
+loadScreen = "data\bg21_loadingScreen.paa";
+onLoadMission = "Le bac à sable du meurtre de masse";
+
+respawn = "BASE";
+respawnDelay = 20;
+respawnVehicleDelay = 30;
+respawnOnStart = 0;
+respawnTemplates[] = {"MenuPosition"};
+respawnTemplatesVirtual[] = {};
+saving = 0; 
+disabledAI = 1;
+joinUnassigned = 1;
+aiKills  = 0;
+
+class Header
+{
+	gameType = Sandbox;
+	minPlayers = 1;
+	maxPlayers = 92;
+};
+
+class Params
+{
+  class allow2ndgm
+	{//paramsArray[0]
+		title= 		"Enable Game Master assistant slot :";
+        texts[]= 	{"False","True"};
+        values[]= 	{0,1};
+        default=	0;
+  }; 
+};
