@@ -1,6 +1,3 @@
-![logo bg21](http://www.battlegroup21.com/styles/WoWDraenor/theme/images/logo_bg21.png)
-# BG21_Sandbox.altis
-
 **Pour votre première utilisation, merci de lire le wiki disponnible sur GitHub.**
 
 
