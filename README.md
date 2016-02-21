@@ -1,8 +1,6 @@
-**Pour votre première utilisation, merci de lire le wiki disponnible sur GitHub.**
-
-
 <p align="center">
     <img src="http://www.battlegroup21.com/styles/WoWDraenor/theme/images/logo_bg21.png">
+    #BG21 Sandbox
 </p>
 
 <p align="center">
