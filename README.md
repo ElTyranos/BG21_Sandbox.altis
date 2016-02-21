@@ -1,6 +1,6 @@
 <p align="center">
     <img src="http://www.battlegroup21.com/styles/WoWDraenor/theme/images/logo_bg21.png">
-    <p> #BG21 Sandbox</p>
+    <align="center"> # BG21 Sandbox</p>
 </p>
 
 <p align="center">
