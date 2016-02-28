@@ -24,13 +24,4 @@ class Header
 	maxPlayers = 92;
 };
 
-class Params
-{
-  class allow2ndgm
-	{//paramsArray[0]
-		title= 		"Enable Game Master assistant slot :";
-        texts[]= 	{"False","True"};
-        values[]= 	{0,1};
-        default=	0;
-  }; 
 };
