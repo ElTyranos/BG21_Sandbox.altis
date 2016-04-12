@@ -7,9 +7,6 @@ respawnTemplatesVirtual[] = {};
 saving = 0; 
 disabledAI = 1;
 joinUnassigned = 1;
-<<<<<<< HEAD
-aiKills  = 0;
-=======
 aiKills  = 0;
 
 class Header
@@ -20,4 +17,3 @@ class Header
 };
 
 };
->>>>>>> origin/master
