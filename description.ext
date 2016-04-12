@@ -1,12 +1,4 @@
-﻿author = "El Tyranos";
-overviewPicture = "data\bg21_loadingScreen.paa";
-overviewText = "Blablabla.";
-overviewTextLocked = "";
-onLoadName = BG21 Sandbox;
-loadScreen = "data\bg21_loadingScreen.paa";
-onLoadMission = "Le bac à sable du meurtre de masse";
-
-respawn = "BASE";
+﻿respawn = "BASE";
 respawnDelay = 20;
 respawnVehicleDelay = 30;
 respawnOnStart = 0;
@@ -15,6 +7,9 @@ respawnTemplatesVirtual[] = {};
 saving = 0; 
 disabledAI = 1;
 joinUnassigned = 1;
+<<<<<<< HEAD
+aiKills  = 0;
+=======
 aiKills  = 0;
 
 class Header
@@ -25,3 +20,4 @@ class Header
 };
 
 };
+>>>>>>> origin/master
