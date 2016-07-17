@@ -4,7 +4,6 @@
 
 <p align="center">
     <sup><strong>Requires the latest version of <a href="https://github.com/CBATeam/CBA_A3/releases">CBA A3</a>.<br/>
-    <sup><strong>Requires the latest version of <a href="https://forums.bistudio.com/topic/142042-mcc-sandbox-3-dynamic-mission-creating-tool-for-arma-3/">MCC Sandbox</a>.<br/>
     Visit us on <a href="https://twitter.com/BattleGroup21">Twitter</a> | <a href="https://www.facebook.com/battlegroup21">Facebook</a> | <a href="https://www.youtube.com/c/Battlegroup21">YouTube</a> | <a href="http://www.battlegroup21.com">Our website</a></strong></sup>
 </p>
 
