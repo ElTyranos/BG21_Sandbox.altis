@@ -8,12 +8,3 @@ saving = 0;
 disabledAI = 1;
 joinUnassigned = 1;
 aiKills  = 0;
-
-class Header
-{
-	gameType = Sandbox;
-	minPlayers = 1;
-	maxPlayers = 92;
-};
-
-};
