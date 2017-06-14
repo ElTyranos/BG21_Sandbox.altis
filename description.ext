@@ -1,4 +1,7 @@
-﻿respawn = "BASE";
+﻿author = "El Tyranos";
+onLoadName = "BG21 Sandbox";
+onLoadMission = "www.battlegroup21.com";
+respawn = "BASE";
 respawnDelay = 20;
 respawnVehicleDelay = 30;
 respawnOnStart = 0;
@@ -8,3 +11,16 @@ saving = 0;
 disabledAI = 1;
 joinUnassigned = 1;
 aiKills  = 0;
+
+class Extended_PreInit_EventHandlers {
+	class Mission {
+		init = "'' call compile preprocessFileLineNumbers 'preinit.sqf'"; 
+	};
+};
+
+class CfgDebriefingSections {
+	class acex_killTracker {
+		title = "Acex Killed Events";
+		variable = "acex_killTracker_outputText";
+	};
+};

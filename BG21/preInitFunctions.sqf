@@ -1,3 +1,9 @@
+bg21_fnc_ismodloaded = {
+	params [["_modName", "", [""]]];
+
+	isClass (configFile >> "CfgPatches" >> _modName)
+};
+
 bg21_fnc_log = {
 	private ["_msg", "_tag", "_chat"];
 	_msg  = _this select 0;
