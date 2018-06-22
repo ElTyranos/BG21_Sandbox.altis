@@ -1,14 +1,13 @@
-#define framework
-
 // #include "BG21\StartOnSafe.sqf"
 // #include "BG21\StartWithEarplugs.sqf"
-#include "BG21\bloodlust.sqf"
 // #include "BG21\intro\intro.sqf";
 
 // execVM "BG21\kill_logger.sqf";
 
-// ACRE 2
-[true, true] call acre_api_fnc_setupMission;
+// ACRE 2 [babel,radios]
+// babel (bool) – True/False setting to specify whether each side should speak their own Babel language; making them incomprehensible to eachother.
+// radios (bool) – True/False to specify whether default radio channels should be setup differently for each side in the game.
+[false, true] call acre_api_fnc_setupMission;
 
 //blooslust cleanup - activate if respawns
 //execVM "BloodSplatter\Scripts\Cleanup.sqf"; 
